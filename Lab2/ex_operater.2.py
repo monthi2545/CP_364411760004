@@ -11,6 +11,26 @@ z = 100
 
 print(x==y) # Trun (1), False (0)
 print(f'x!=y --> {x!=y}')
-print(f'x>y--> {x>y0}
+print(f'x>y --> {x>y}')
+print(f'x<y --> {x<y}')
+print(f'x>y --> {x>y}')
+print(f'x>=y --> {x>=y}')
+print(f'x<=y --> {x<=y}')
+
+t = True
+print(type(t))
+print(f' t --> {t} and not t --> {not t}')
+
+
+
+
+
+
+
+
+
+
+
+
 
 
