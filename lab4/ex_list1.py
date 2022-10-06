@@ -63,5 +63,5 @@ for x in range(len(mylist)):
 c = 0 # first index in list
 while c < len(mylist):
     print(mylist[c],end=" ")
-    c +=1
+ c+=1
 
